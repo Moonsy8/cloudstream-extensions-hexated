@@ -6,7 +6,7 @@ import com.lagradost.cloudstream3.utils.M3u8Helper
 import org.jsoup.nodes.Element
 
 class UseeTv : MainAPI() {
-    override var mainUrl = "https://www.indihometv.com/"
+    override var mainUrl = "https://www.indihometv.com/livetv"
     override var name = "Useetv"
     override var lang = "id"
     override val hasDownloadSupport = false
