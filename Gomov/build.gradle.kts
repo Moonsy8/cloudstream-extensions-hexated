@@ -15,7 +15,7 @@ cloudstream {
     language = "id"
     // All of these properties are optional, you can safely remove them
 
-    description = "Includes: DutaMovie, Ngefilm, Nodrakorid, Multiplex, Pusatfilm"
+    description = "Includes: DutaMovie, NunaDrama, Ngefilm, Nodrakorid, Multiplex, Pusatfilm"
     authors = listOf("Hexated")
 
     /**
